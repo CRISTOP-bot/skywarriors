@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background">#FF0D0D2B</color>
+    <color name="player">#FF00E5FF</color>
+    <color name="enemy_basic">#FFFF5252</color>
+    <color name="enemy_fast">#FFFFAB40</color>
+    <color name="enemy_tank">#FFE040FB</color>
+    <color name="bullet_player">#FF76FF03</color>
+    <color name="bullet_enemy">#FFFF1744</color>
+    <color name="powerup_shield">#FF448AFF</color>
+    <color name="powerup_rapid">#FFFF6D00</color>
+    <color name="powerup_spread">#FFD500F9</color>
+    <color name="powerup_life">#FFFF1744</color>
+    <color name="shield">#80448AFF</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="black">#FF000000</color>
+    <color name="hud_text">#FFFFFFFF</color>
+    <color name="explosion">#FFFF6D00</color>
+    <color name="star">#B0FFFFFF</color>
+</resources>
